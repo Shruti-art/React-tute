@@ -1,0 +1,6 @@
+{
+    "debug.toolBarLocation": "hidden",
+    "debug.showInlineBreakpointCandidates": false,
+    "debug.openDebug": "neverOpen",
+    "debug.focusWindowOnBreak": false
+}
